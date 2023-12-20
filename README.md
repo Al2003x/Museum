@@ -1,2 +1,2 @@
 Проект RSSchool: Museum  
-Ссылка:[GitHub Pages](https://pages.github.com/)
+Ссылка:[Museum](https://al2003x.github.io/Museum/dist/)
