@@ -1,2 +1,2 @@
-Проект RSSchool: Museum
-ССылка:[GitHub Pages](https://pages.github.com/)
+Проект RSSchool: Museum  
+Ссылка:[GitHub Pages](https://pages.github.com/)
